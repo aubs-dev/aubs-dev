@@ -4,7 +4,7 @@ I'm a software developer who does everything from tools, engines, games & web.
 
 I like building reliable & lightweight applications like it's the 90s.
 <br>
-I mostly code in C but I also use Odin, Lua & Python depending on the project.
+I mostly code in C/C++ but I frequently use Lua & Python as well.
 
 I'm currently working on a lightweight library for game development in C and a commercial game I plan on releasing.
 
